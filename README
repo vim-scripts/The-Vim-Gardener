@@ -1,0 +1,32 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1348
+
+  'For code surgeons and web gardeners everywhere'
+
+A nice earthy  color scheme which is easy on  the eyes. It
+has  as it's  base a  dark background  monocrhomatic khaki
+scheme with dabs of color thrown  in here and there on the
+keywords. It's gives you the feeling of looking at the sun through 
+the afternoon spring leaves, but all at night time :)
+
+Plus  lots of  extra config  options so  you can
+tweak  it to  your liking  and or  make it  more like  the
+original Guardian scheme. All the defaults are what I like
+but if you want to change stuff just set the right var and
+it will change pretty much  immediately, you might have to
+move out of and back into your buffer for it to refresh.
+
+
+New Features:
+  256 Color XTerm Compatibility
+  Richer Syntax
+  Black Background
+  Functions
+  No Italics
+  Purple Booleans
+  Swapped Status Line Colors
+  Green like a garden
+  Other minor tweaks
+
+Screenshot:
+  http://entheon.com/vim-gardener.gif
+
